@@ -1,0 +1,28 @@
+
+.navbar-nav {
+    background-color:rgb(237, 15, 89);
+    font-weight: bold;
+}
+
+
+.navbar-brand {
+    background-color: pink;
+    font-weight: bold;
+}
+
+li:hover .nav-item--selected {
+    background: gray;
+    color: lightgray;
+}
+
+.card-body {
+
+    background-color: pink;
+    font-weight: bold;
+}
+
+.card-header {
+
+    background-color: rgb(237, 15, 89);
+    font-weight: bold;
+}
